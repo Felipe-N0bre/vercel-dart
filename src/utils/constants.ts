@@ -7,7 +7,7 @@ export const RUNTIME_PKG = process.env.VDR_DEBUG
   ? {path: path.join(__dirname, '../dart')}
   : {
       git: {
-        url: 'https://github.com/frencojobs/vercel-dart',
+        url: 'https://github.com/Felipe-N0bre/vercel-dart',
         ref: 'dev',
         path: 'dart'
       }
