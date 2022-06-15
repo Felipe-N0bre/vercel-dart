@@ -1,6 +1,7 @@
 {
   "public": true,
   "functions": {
-    "api/**/*.dart": { "runtime": "vercel-dev-runtime@0.0.3" }
+    "api/**/*.dart": { "runtime": "vercel-dart@1.1.0" }
+
   }
 }
